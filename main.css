@@ -6,9 +6,12 @@
 
 
 div{
-    background-color: yellow;
-    height: 100vh;
-    width: 100vw;
-    margin: 16px 0;
+    background-image: url(https://cdn.pixabay.com/photo/2022/11/01/17/46/candle-7562931_960_720.jpg);
+    height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
+
 
